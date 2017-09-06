@@ -43,10 +43,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArmstrongNumbers.cs" />
+    <Compile Include="Data\DataN.cs" />
+    <Compile Include="Data\DataNM.cs" />
+    <Compile Include="Data\Number.cs" />
     <Compile Include="DivSQRbutNOTCubic.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SQRSumEqualNumber.cs" />
+    <Compile Include="Tasks\First.cs" />
+    <Compile Include="Tasks\Global.cs" />
+    <Compile Include="Tasks\Second.cs" />
+    <Compile Include="Tasks\Third.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
